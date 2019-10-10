@@ -24,3 +24,5 @@ clang ./main.c -o main -lm
 gcc ./main.c -o main -lm
 ./main
 ```
+
+https://github.com/jon/coolproject/raw/master/image/rGboCf8SrKw.png
